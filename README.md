@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Papers:
+
+[Effectiveness of Robotic Process Automation for data mining using UiPath](https://ieeexplore.ieee.org/document/9396024) (2021) - [\[preprint\]](https://www.researchgate.net/publication/351450064_Effectiveness_of_Robotic_Process_Automation_for_data_mining_using_UiPath)
+
 <!--
 **yashodhanketkar/yashodhanketkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
