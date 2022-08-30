@@ -4,6 +4,8 @@
 
 [Effectiveness of Robotic Process Automation for data mining using UiPath](https://ieeexplore.ieee.org/document/9396024) (2021) - [\[preprint\]](https://www.researchgate.net/publication/351450064_Effectiveness_of_Robotic_Process_Automation_for_data_mining_using_UiPath)
 
+[Detection of Arrhythmia Using Weightage-based Supervised Learning System for COVID-19.](https://doi.org/10.1016/j.iswa.2022.200119) (2022)
+
 <!--
 **yashodhanketkar/yashodhanketkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
