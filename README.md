@@ -6,6 +6,8 @@
 
 [Detection of Arrhythmia Using Weightage-based Supervised Learning System for COVID-19.](https://doi.org/10.1016/j.iswa.2022.200119) (2022)
 
+[A decision support system for selecting the most suitable machine learning in healthcare using user parameters and requirements.](https://doi.org/10.1016/j.health.2022.100117) (2022)
+
 <!--
 **yashodhanketkar/yashodhanketkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
